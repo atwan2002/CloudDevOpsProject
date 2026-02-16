@@ -1,0 +1,15 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+
+# AWS CLI
+aws/
+awscliv2.zip
+
+# Ansible temp
+*.retry
+
+# OS
+.DS_Store
+
